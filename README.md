@@ -1,7 +1,7 @@
 # nginx-extras-with-cjson-ruby
 
-nginx-extras with lua-cjson, RVM Ruby-2.2, default-jre and libimage-exiftool-perl
-Based on Ubuntu:15.10
+nginx-extras with lua-cjson, RVM Ruby-2.2/2.3, default-jre and libimage-exiftool-perl
+Based on Ubuntu:15.10, 16.04
 
 
 # nginx-extras
